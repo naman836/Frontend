@@ -36,9 +36,9 @@ e.preventDefault()
       </ul>
     </div> */}
       <ToastContainer position='top-center' autoClose={1000} theme='dark' draggable />
-    {/* <Homepage/> */}
+    <Homepage/>
     {/* <TextToSpeech/> */}
-    <SpeechToText/>
+    {/* <SpeechToText/> */}
     </>
   );
 };
